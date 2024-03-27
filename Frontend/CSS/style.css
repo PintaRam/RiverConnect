@@ -1,3 +1,7 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
 *
 {
     margin: 0;
@@ -111,6 +115,12 @@
 }
 
 
+
+
+
+
+
+
 /* help section */
 
 .help-container{
@@ -133,4 +143,64 @@
 #tb tr:nth-child(odd){
     background-color: aqua;
     
+
+
+  
+  
+  
+
+/*About Section*/
+.abt
+{
+    background-image: url("../Img/abtbg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-blend-mode: lighten;
+    background-color: rgba(rgb(222, 222, 222),white, 0.5);
+}
+.abt-title h2{
+    font-family:"Bebas Neue", sans-serif;
+    color: white;
+    font-size: 60px;
+}
+.abt-sec
+{
+    margin: 20px;
+}
+.img-sec
+{
+    width: 50%;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.img-sec .abt-img
+{
+    width: 300px;
+    height: 300px;
+    align-content: center;
+}
+.text-sec
+{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:  "Libre Baskerville", serif;
+    padding: 20px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.description
+{
+    margin: 20px;
+    color: aliceblue;
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    border-radius: 40px;
+    padding: 20px;
+
 }
