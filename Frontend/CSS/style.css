@@ -118,6 +118,37 @@
 
 
 
+
+
+
+/* help section */
+
+.help-container{
+    align-items: center;
+    justify-content: center;
+}
+#tb{
+   width: 50%;
+   height: 80%;
+    /* margin-left: 22rem;
+    margin-right: 10rem;*/
+    margin-top:10rem; 
+    background-color: aquamarine;
+}
+#tb tr th{
+            background-color: bisque;
+            font-size: larger;
+            
+}
+#tb tr:nth-child(odd){
+    background-color: aqua;
+    
+
+
+  
+  
+  
+
 /*About Section*/
 .abt
 {
@@ -171,4 +202,5 @@
     background-color: black;
     border-radius: 40px;
     padding: 20px;
+
 }
