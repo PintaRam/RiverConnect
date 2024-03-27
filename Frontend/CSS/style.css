@@ -109,3 +109,28 @@
     background: linear-gradient(300deg,rgb(241, 255, 44),rgb(102, 255, 102),rgb(48, 200, 255));
     margin: 40px;
 }
+
+
+/* help section */
+
+.help-container{
+    align-items: center;
+    justify-content: center;
+}
+#tb{
+   width: 50%;
+   height: 80%;
+    /* margin-left: 22rem;
+    margin-right: 10rem;*/
+    margin-top:10rem; 
+    background-color: aquamarine;
+}
+#tb tr th{
+            background-color: bisque;
+            font-size: larger;
+            
+}
+#tb tr:nth-child(odd){
+    background-color: aqua;
+    
+}
