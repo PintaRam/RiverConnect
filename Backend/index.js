@@ -10,7 +10,6 @@ app.use(express.static(path.join(__dirname, '../Frontend')));
 app.use(express.json());
 
 const Port = process.env.PORT || 4050;
-const apiKey = process.env.API_KEY;
 
 app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "../Frontend/HTML/index.html"));
