@@ -1,0 +1,184 @@
+ {
+  "RiverData":[
+    {
+        "name": "ganges",
+        "length_km": 2525,
+        "source": "gangotri glacier, gimalayas",
+        "major_tributaries": ["yamuna", "ghaghara", "gandak", "kosi", "chambal"],
+        "pollution_factors": [
+            "industrial waste",
+            "untreated sewage",
+            "religious rituals waste",
+            "agricultural runoff"
+          ],
+        "precaution_measures": [
+            "Implementation of soil conservation measures",
+            "construction of sewage treatment plants",
+            "awareness campaigns to discourage dumping of religious offerings into the river",
+            "promotion of sustainable agricultural practices to reduce chemical runoff"
+          ]
+      },
+      {
+        "name": "yamuna",
+        "length_km": 1376,
+        "source": "yamunotri glacier, himalayas",
+        "major_tributaries": ["chambal", "betwa", "Ken", "Sindh", "Hindon"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Dumping of solid waste"
+          ],
+        "precaution_measures": [
+            "Enforcement of pollution control measures for industries",
+            "Upgrade and expansion of sewage treatment infrastructure",
+            "Waste management initiatives to reduce solid waste disposal",
+            "Regulation of agricultural practices to minimize chemical runoff"
+          ]
+      },
+      {
+        "name": "brahmaputra",
+        "length_km": 2900,
+        "source": "Angsi Glacier, Tibet (Yarlung Tsangpo)",
+        "major_tributaries": ["Subansiri", "Manas", "Teesta", "Dhansiri", "Jia Bharali"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Deforestation along banks"
+          ],
+          "precaution_measures": [
+            "Monitoring and enforcement of industrial pollution standards",
+            "Investment in sewage treatment plants",
+            "Afforestation programs to prevent soil erosion along riverbanks",
+            "Promotion of sustainable agriculture to reduce chemical runoff"
+          ] 
+      },
+      {
+        "name": "godavari",
+        "length_km": 1465,
+        "source": "Brahmagiri Mountain, Maharashtra",
+        "major_tributaries": ["Manjira", "Indravati", "Pranhita", "Sabari"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Dam construction"
+          ],
+          "precaution_measures": [
+            "Treatment of industrial effluents before discharge",
+            "Expansion of sewage treatment infrastructure",
+            "Adoption of eco-friendly agricultural practices",
+            "Assessment of environmental impact before dam construction"
+          ]
+      },
+      {
+        "name": "krishna",
+        "length_km": 1400,
+        "source": "Mahabaleshwar, Maharashtra",
+        "major_tributaries": ["Tungabhadra", "Bhima", "Musi", "Koyna"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Urbanization along banks"
+          ],
+          "precaution_measures": [
+            "Stringent enforcement of pollution control laws for industries",
+            "Investment in sewage treatment facilities",
+            "Regulation of urban development to minimize pollution",
+            "Promotion of organic farming practices"
+          ] 
+      },
+      {
+        "name": "narmada",
+        "length_km": 1312,
+        "source": "Amarkantak Plateau, Madhya Pradesh",
+        "major_tributaries": ["Tawa", "Banjar", "Sher", "Shakkar"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Agricultural runoff",
+            "Deforestation along banks",
+            "Sand mining"
+          ],
+          "precaution_measures": [
+            "Regulation and monitoring of industrial discharge",
+            "Implementation of soil conservation measures",
+            "Protection of riparian forests",
+            "Control and regulation of sand mining activities"
+          ]
+      },
+      {
+        "name": "tapi",
+        "length_km": 724,
+        "source": "Multai, Madhya Pradesh",
+        "major_tributaries": ["Purna", "Girna"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Chemical pollution"
+          ],
+          "precaution_measures": [
+            "Installation of treatment plants for industrial effluents",
+            "Upgrade of sewage treatment infrastructure",
+            "Promotion of organic farming to reduce chemical runoff",
+            "Monitoring and regulation of chemical discharge"
+          ]
+      },
+      {
+        "name": "kaveri",
+        "length_km": 765,
+        "source": "Brahmagiri Range, Karnataka",
+        "major_tributaries": ["Kabini", "Bhavani", "Hemavati", "Arkavati"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Deforestation along banks"
+          ],
+          "precaution_measures": [
+            "Strict enforcement of pollution control regulations for industries",
+            "Expansion of sewage treatment facilities",
+            "Afforestation initiatives to prevent soil erosion",
+            "Promotion of sustainable agricultural practices"
+          ] 
+      },
+      {
+        "name": "mahanadi",
+        "length_km": 858,
+        "source": "Sihawa, Chhattisgarh",
+        "major_tributaries": ["Seonath", "Hasdeo", "Ong"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Mining activities"
+          ],
+          "precaution_measures": [
+            "Regulation and monitoring of industrial discharge",
+            "Construction of sewage treatment plants",
+            "Adoption of soil conservation measures",
+            "Controlled and sustainable mining practices"
+          ] 
+      },
+      {
+        "name": "tungabhadra",
+        "length_km": 531,
+        "source": "Western Ghats, Karnataka",
+        "major_tributaries": ["Bhadra", "Hagari", "Hindri"],
+        "pollution_factors": [
+            "Industrial waste",
+            "Untreated sewage",
+            "Agricultural runoff",
+            "Urbanization along banks"
+          ],
+          "precaution_measures": [
+            "Treatment of industrial effluents before discharge",
+            "Upgradation of sewage treatment infrastructure",
+            "Regulation of urban expansion",
+            "Promotion of afforestation along riverbanks"
+          ]
+      }
+   ]
+ }

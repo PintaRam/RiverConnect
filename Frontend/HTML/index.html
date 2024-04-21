@@ -11,10 +11,10 @@
 
 <div class="container">
     <div class="row nav-bar">
-        <li><a href="./index.html">Home</a></li>
-        <li><a href="./About.html">About</a></li>
-        <li><a href="./Help.html">Help</a></li>
-        <li><a href="./feedback.html">Feedback</a></li>
+        <li><a id="home" href="./index.html">Home</a></li>
+        <li><a id="abt" href="./About.html">About</a></li>
+        <li><a id="hp" href="./Help.html">Help</a></li>
+        <li><a id="feed" href="./feedback.html">Feedback</a></li>
     </div>
 
     <div class="row Chat-Body">
@@ -25,12 +25,13 @@
         </div>
         <div class="col chat-area">
           <div class="chat-sec">
-             <textarea name="" id="chat-result" placeholder="Result Section !!! " cols="1600" rows="25">
-
+             <textarea name="" id="chat-result" placeholder="Result Section !!! " cols=auto rows=auto>
              </textarea>
              <div class="send-sec">
-                <input type="text" value="" placeholder="Enter your Prompt" id="propmt-text">
-                <button id="send">Send</button>
+                <form id="form-content">
+                <input type="text" name="query" placeholder="Enter your Prompt" id="propmt-text">
+                <button type="submit" id="send">Send</button>
+            </form>
              </div>
           </div>
         </div>
@@ -42,5 +43,6 @@
     </div>
 </div>
 
+<script src="../JavaScript/index.js"></script>
 </body>
 </html>
